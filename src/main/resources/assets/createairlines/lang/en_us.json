@@ -1,4 +1,7 @@
 {
   "item.createairlines.suitcase": "Suitcase",
+  "block.createairlines.belt_cover": "Belt Cover",
+  "block.createairlines.xray_tunne;": "Xray Tunnel",
+  "block.createairlines.metal_detector_part": "Metal Detector Part",
   "itemGroup.createairlinestab": "Create: Airlines"
 }
